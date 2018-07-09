@@ -17,6 +17,7 @@ namespace oakarsvsalesWebservice.Controllers
         {
             _ioslsaleswebservice = ioslsaleswebservice;
         }
+
         [HttpGet]
         [Route("sales")]
         public IActionResult List()

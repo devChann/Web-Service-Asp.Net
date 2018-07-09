@@ -6,9 +6,9 @@
     <StartupObject />
   </PropertyGroup>
   
- <!-- <PropertyGroup>
+ <PropertyGroup>
     <AspNetCoreModuleHostingModel>inprocess</AspNetCoreModuleHostingModel>
-  </PropertyGroup>-->
+  </PropertyGroup>
   
   <ItemGroup>
     <Folder Include="wwwroot\" />
